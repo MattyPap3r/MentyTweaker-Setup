@@ -1,5 +1,5 @@
 {
-  "version": "1.7.0",
+  "version": "1.8.0",
   "url": "https://github.com/MattyPap3r/MentyTweaker-Setup/raw/main/Setup-MentyTweaker.exe",
-  "changelog": "Sistema di traduzione completo e simmetrico (IT, EN, ES), motore di licenza Free vs PRO con badge e controlli dedicati, riprogettazione Benchmark ad alto contrasto e pulizia Home Score."
+  "changelog": "Fixxati alcuni bug, Resa funzionate sezione POWER, aggiunti vari tweaks nelle varie sezioni"
 }
