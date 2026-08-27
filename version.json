@@ -1,5 +1,6 @@
 {
-  "version": "1.8.0",
+  "version": "1.8.1",
   "url": "https://raw.githubusercontent.com/MattyPap3r/MentyTweaker-Setup/main/Setup-MentyTweaker.exe",
-  "changelog": "Fixxati alcuni bug, Resa funzionante sezione POWER, aggiunti vari tweaks nelle varie sezioni"
+  "changelog": "Fix indici/scoring su base ottimizzazioni effettive, pulizia UI widget overall, rimozione pulsante ridondante gaming, icone serie piani energetici, debloat potenziato con nuovi servizi, redesign suite benchmark"
 }
+
