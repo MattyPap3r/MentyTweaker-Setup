@@ -1,7 +1,7 @@
 {
-  "version": "1.8.6",
+  "version": "1.8.7",
   "url": "https://raw.githubusercontent.com/MattyPap3r/MentyTweaker-Setup/main/Setup-MentyTweaker.exe",
-  "changelog": "MentyTweaker si è aggiornato!\nnuova versione 1.8.6"
+  "changelog": "MentyTweaker v1.8.7:\n- Nuovo logo e icona multi-risoluzione\n- Banner notifica aggiornamenti discreto\n- Revisione totale sezione AUDIO con cuffie reali\n- Toggle asincroni istantanei e Clean RAM ultra-veloce\n- Fix scroll rotellina del mouse sui tweak\n- Fix USB suspend e log terminale in inglese"
 }
 
 
