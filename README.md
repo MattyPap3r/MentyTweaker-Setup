@@ -14,7 +14,9 @@
 
 Per installare **MentyTweaker Suite** sul tuo computer:
 
-👉 **[SCARICA SETUP-MENTYTWEAKER.EXE (Download Diretto)](https://github.com/MattyPap3r/MENTYTWEAKER/releases/latest/download/Setup-MentyTweaker.exe)**
+👉 **[SCARICA SETUP-MENTYTWEAKER.EXE (Download Diretto)](https://github.com/MattyPap3r/MentyTweaker-Setup/raw/main/Setup-MentyTweaker.exe)**
+
+*(Mirror Raw: [Download Alternativo](https://raw.githubusercontent.com/MattyPap3r/MentyTweaker-Setup/main/Setup-MentyTweaker.exe) • Portable Standalone: [MentyTweaker.exe](https://github.com/MattyPap3r/MENTYTWEAKER/raw/main/MentyTweaker.exe))*
 
 1. Scarica il file `Setup-MentyTweaker.exe`.
 2. Fai doppio clic sul file scaricato.
