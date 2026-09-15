@@ -1,7 +1,7 @@
 {
-  "version": "1.8.8",
+  "version": "1.9.0",
   "url": "https://raw.githubusercontent.com/MattyPap3r/MentyTweaker-Setup/main/Setup-MentyTweaker.exe",
-  "changelog": "MentyTweaker v1.8.8:\n- Benchmark potenziato con GPU FPS, 1% Low e stress-test CPU 100%\n- Nuovi tweak per PC Low-End (8GB RAM, i5, GT 730 / Intel HD)\n- Tasti rapidi punti di ripristino e avvio rstrui.exe\n- Nuovi moduli Debloat (Edge update, OneDrive, Clipchamp, Copilot)\n- Fix calcolo indici Dashboard e rimozione contorno widget"
+  "changelog": "MentyTweaker v1.9.0:\n- Overhaul Benchmark: motore deterministico multi-pass con stress test 3D wireframe mesh, FPS reali, 1% Low e 0.1% Low a varianza minima (1.1%)\n- Nuovo widget Smart Optimize 200x200 px con tachimetro dinamico e angoli smussati moderni\n- Sezione Benchmark Scores 2x2 minimale con icone hardware dedicate (CPU, GPU, RAM, Disk)\n- Ricerca globale con autofocus, filtri per categoria e chip rapidi\n- Icona app interna sincronizzata con il nuovo logo HD ad alta risoluzione\n- Nuovi moduli Debloat avanzati e scorciatoie per punti di ripristino di sistema\n- Localizzazione completa stringhe in inglese/italiano"
 }
 
 
