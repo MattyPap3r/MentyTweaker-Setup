@@ -1,7 +1,7 @@
 {
-  "version": "1.9.0",
+  "version": "1.9.1",
   "url": "https://raw.githubusercontent.com/MattyPap3r/MentyTweaker-Setup/main/Setup-MentyTweaker.exe",
-  "changelog": "MentyTweaker v1.9.0:\n- Overhaul Benchmark: motore deterministico multi-pass con stress test 3D wireframe mesh, FPS reali, 1% Low e 0.1% Low a varianza minima (1.1%)\n- Nuovo widget Smart Optimize 200x200 px con tachimetro dinamico e angoli smussati moderni\n- Sezione Benchmark Scores 2x2 minimale con icone hardware dedicate (CPU, GPU, RAM, Disk)\n- Ricerca globale con autofocus, filtri per categoria e chip rapidi\n- Icona app interna sincronizzata con il nuovo logo HD ad alta risoluzione\n- Nuovi moduli Debloat avanzati e scorciatoie per punti di ripristino di sistema\n- Localizzazione completa stringhe in inglese/italiano"
+  "changelog": "MentyTweaker v1.9.1:\n- Direct3D 11 Compute Shader Stress Engine: benchmark a 1440p con raymarching volumetrico e sincronizzazione hardware su silicio\n- Calibrazione Inter-Frame Delta Time: allineamento perfetto tra framerate in tempo reale e risultato finale del benchmark\n- Grafico Sparkline potenziato con contatore FPS dinamico live e scala ad onde reattiva\n- Rimozione badge 'CPU: 100%' dall'HUD per una visualizzazione pulita delle metriche essenziali\n- Nuovi moduli Advanced FPS Engine (GPU Preemption, Timer Resolution, DWM optimizations)\n- Fix e rifiniture all'estrazione atomica del setup installer"
 }
 
 
