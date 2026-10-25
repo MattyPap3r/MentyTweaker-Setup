@@ -1,8 +1,5 @@
 {
-  "version": "1.9.1",
+  "version": "2.0.0",
   "url": "https://raw.githubusercontent.com/MattyPap3r/MentyTweaker-Setup/main/Setup-MentyTweaker.exe",
-  "changelog": "MentyTweaker v1.9.1:\n- Direct3D 11 Compute Shader Stress Engine: benchmark a 1440p con raymarching volumetrico e sincronizzazione hardware su silicio\n- Calibrazione Inter-Frame Delta Time: allineamento perfetto tra framerate in tempo reale e risultato finale del benchmark\n- Grafico Sparkline potenziato con contatore FPS dinamico live e scala ad onde reattiva\n- Rimozione badge 'CPU: 100%' dall'HUD per una visualizzazione pulita delle metriche essenziali\n- Nuovi moduli Advanced FPS Engine (GPU Preemption, Timer Resolution, DWM optimizations)\n- Fix e rifiniture all'estrazione atomica del setup installer"
+  "changelog": "MentyTweaker v2.0.0 Major Release:\n- Voice Onboarding: guida interattiva a 6 fasi con voce reale ad alto volume (200%), sincronizzazione UI e gestione versionata nel registro\n- Profilo Personale & Avatar: gestione avatar circolare ad alta fedeltà, display name, visualizzazione mascherata HWID e tasti diretti Restore/Terminale\n- Competitive Game Profiles (Fortnite): scansione reale GameUserSettings.ini, analisi grafica a 4 colonne, preset competitivo low-latency, backup automatico, rollback e blocco sola lettura anti-reset\n- Gestione Preset Scaricabili (.mentycfg): esportazione e importazione sicura con whitelist rigorosa anti-traversal\n- Localizzazione Multilingua Completa: Italiano, Inglese e Spagnolo con fallback primario in Inglese su tutti i componenti\n- Riorganizzazione Viste: netta separazione tra Profilo Utente e Impostazioni di Sistema (Licenza, Restore, Lingua)\n- Avatar Dinamico Top Navbar: icona circolare personalizzata e nome profilo visibili in tempo reale nella barra superiore"
 }
-
-
-
